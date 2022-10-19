@@ -1,0 +1,10 @@
+pour s'identifier dans le test veuillez utiliser
+ les coordonnées suivantes : pseudo:chaimae.ghazi password:123 ou utilisez
+la page signup.php pour stocker un autre user dans la BD
+et ensuite fait le test
+(nous somme partis du fait qu'on va utiliser 
+une base de donné déjà existe
+ celle de l'ensa de tanger)
+pour executer BD.sql il faut utiliser une bd  mysql ou phpmyadmin
+et n'oubliez pas de modefier le nom du base de donnee et le password dans le code model/database.php et model/connect.php)
+
